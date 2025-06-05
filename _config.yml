@@ -16,7 +16,7 @@ timezone: Asia/Jakarta
 
 title: Arif # the main title
 
-tagline: A personal documentation # it will display as the subtitle
+tagline: A personal documentation project # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
