@@ -7,8 +7,6 @@ tag: [hello world]     # TAG names should always be lowercase
 
 ## Blog - What ?
 
-Hello world updated
-
-update again
+Hello world again
 
 Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt.
