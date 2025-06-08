@@ -1,0 +1,8 @@
+---
+title: Creating Media Repo for Github Pages
+date: 2025-06-08 10:10:00 +0700
+category: [Blogging]
+tag: [hello world]     # TAG names should always be lowercase
+---
+
+## Media Repository
